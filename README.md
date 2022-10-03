@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ☕️ 👨🏻‍💻
+<img src="https://raw.githubusercontent.com/alvarezmike/alvarezmike/master/Coding Fun Stuff.png" alt="banner that says Coding Fun Stuff - Computer Scientist">
 
 <!--
 **alvarezmike/alvarezmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
