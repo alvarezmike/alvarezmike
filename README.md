@@ -1,6 +1,11 @@
 ### Hi there, I'm Michael ☕️ 👨🏻‍💻
 <img src="https://raw.githubusercontent.com/alvarezmike/alvarezmike/master/Coding Fun Stuff.png" alt="banner that says Coding Fun Stuff - Computer Scientist">
 
+**`Computer Scientist (Developer/Data Analyst/Designer)`**
+
+Hi there 👋🏻 my name is Michael Alvarez and I have recently completed a Bachelor of Science, majoring in Computing Science at Rasmussen University. I have a passion for all things technology and design, from software engineering to UI/UX. I like to turn ideas into products through code. I have exposure to full-stack development technologies such as Python, Java, HTML, CSS, Bootstrap, and SQL. 
+
+In addition to my love of technology and design, I am also interested in sports, economics, and discovering new hobbies. 
 ---
 
 ### 🧰 Languages and Tools
