@@ -3,14 +3,16 @@
 
 **`Computer Scientist (Developer/Data Analyst/Designer)`**
 
-Hi there 👋🏻 I have recently completed a Bachelor of Science, majoring in Computing Science at Rasmussen University. I have a passion for all things technology and design, from software engineering to UI/UX. I like to turn ideas into products through code. I have exposure to full-stack development technologies such as Python, Java, HTML, CSS, Bootstrap, and SQL. 
+Hi there 👋🏻 I have recently completed a Bachelor of Science, majoring in Computing Science at Rasmussen University. I have a passion for all things technology and design, from software engineering to UI/UX. I like to turn ideas into products through code. I have exposure to full-stack development technologies such as Python, HTML, CSS, Bootstrap, and SQL. 
 
-In addition to my love of technology and dessign, I am also interested in sports, economics, and discovering new hobbies.
+In addition to my love of technology, my other hobbies include sports, audiobooks, photography, and hiking.
 
 <br />
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+ <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" />        
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
